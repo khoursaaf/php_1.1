@@ -5,8 +5,8 @@
     </head>
     <body>
         <h1>Créer une variable name et l'initialiser avec la valeur de votre choix. Afficher son contenu.</h1>
-        <?php
+        <p><?php
         $name = 'Khoursa';
-        echo 'Mon nom est ' .$name .'.'; ?>
+        echo 'Mon nom est ' .$name .'.'; ?></p>
     </body>
 </html>
